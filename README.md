@@ -6,6 +6,7 @@ This is the main download page for Afnify
 
 ## 📋Features of Afnify
 ### [📦 `com.google.android.youtube`](https://play.google.com/store/apps/details?id=com.google.android.youtube)
+<details>
 
 | 💊 Patch | 📜 Description | 🏹 Target Version |
 |:--------:|:--------------:|:-----------------:|
