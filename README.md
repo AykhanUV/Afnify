@@ -4,6 +4,8 @@
 ## Note
 This is the main download page for Afnify
 
+- You can find latest download [here](https://github.com/AykhanUV/Afnify/releases/download/Afnify(19.34.42)/Afnify.apk). This is a pre-release
+
 ## 📋Features of Afnify
 ### [📦 `com.google.android.youtube`](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 <details>
